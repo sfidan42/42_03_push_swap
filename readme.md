@@ -1,5 +1,5 @@
 # push_swap
-##Foreword
+## Foreword
 C
 ```
 #include <stdio.h>
@@ -44,6 +44,41 @@ BrainFuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]
 >++.>+.+++++++..+++.>++.
 <<+++++++++++++++.>.+++.------.--------.>+.>.
+```
+C#
+```
+using System;
+public class HelloWorld
+{
+	public static void Main ()
+	{
+		Console.WriteLine("Hello world!");
+	}
+}
+```
+HTML5
+```
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Hello world !</title>
+	</head>
+	<body>
+		<p>Hello World !</p>
+	</body>
+</html>
+```
+YASL
+```
+"Hello world!"
+print
+```
+OCaml
+```
+let main () =
+	print_endline "Hello world !"
+let _ = main ()
 ```
 
 #### Please read the [***Subject File***](https://cdn.intra.42.fr/pdf/pdf/70135/en.subject.pdf)
