@@ -87,7 +87,7 @@ let _ = main ()
 	- I have at my disposal a set of integer values, 2 stacks, and a set of instructions to manipulate both stacks.
 	- My goal? Write a program in C called push_swap which calculates and displays on the standard output the smallest program, made of Push swap language instructions, that sorts the integers received as arguments.
 	- Easy?
-	- I saw...
+	- I saw, a bit hard it is...
 
 ## Objectives
 - Writing a sorting algorithm is always a very important step in a developer’s journey. It is often the first encounter with the concept of complexity.
