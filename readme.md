@@ -1,15 +1,15 @@
 # push_swap
 ##Foreword
-- C
+C
 ```
 #include <stdio.h>
-int main(void)
+int	main(void)
 {
 	printf("hello, world\n");
 	return 0;
 }
 ```
-- ASM
+ASM
 ```
 cseg	segment
 assume	cs:cseg, ds:cseg
@@ -26,20 +26,20 @@ main	endp
 cseg	ends
 end		main
 ```
-- LOLCODE
+LOLCODE
 ```
 HAI
 CAN HAS STDIO?
 VISIBLE "HELLO WORLD!"
 KTHXBYE
 ```
-• PHP
+PHP
 ```
 <?php
  echo "Hello world!";
 ?>
 ```
-• BrainFuck
+BrainFuck
 ```
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]
 >++.>+.+++++++..+++.>++.
